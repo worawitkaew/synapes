@@ -1,3 +1,2 @@
 # synapes
-TH people have 15000 bath
-:)
+TH people have an average income 15000 bath
